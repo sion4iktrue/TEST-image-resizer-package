@@ -1,0 +1,14 @@
+{
+    "name": "smarty/imageresizer",
+    "description": "Smarty Image Resizer",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "intervention/image": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Smarty\\ImageResizer\\": "src/"
+        }
+    }
+}
